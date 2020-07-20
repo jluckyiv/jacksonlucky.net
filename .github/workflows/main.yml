@@ -21,4 +21,3 @@ jobs:
       - uses: wajahatkarim3/Hugo-On-Fire@master
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-          PROJECT_ID: ${{ secrets.PROJECT_ID }}
