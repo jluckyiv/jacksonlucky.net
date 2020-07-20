@@ -1,4 +1,4 @@
 baseURL = "https://jacksonlucky.net"
 languageCode = "en-us"
 title = "Jackson Lucky"
-theme = "tale"
+theme = "twentynineteen-hugo"
